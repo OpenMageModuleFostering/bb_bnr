@@ -1,16 +1,19 @@
 {
-    "name": "OpenMageModuleFostering/bb_bnr",
+    "name": "OpenMageModuleFostering\/bb_bnr",
     "type": "magento-module",
     "license": "Open-Software-License-(OSL-3.0)",
     "homepage": "",
     "description": "Automatically import currency rate between RON and others accepted currencies by BNR",
     "authors": [
-    {
-        "name": "George Babarus",
-        "email": "george.babarus@gmail.com"
-    }
-],
+        {
+            "name": "George Babarus",
+            "email": "george.babarus@gmail.com"
+        }
+    ],
     "suggest": {
-        "magento-hackathon/magento-composer-installer": "*"
-    }
+        "magento-hackathon\/magento-composer-installer": "*"
+    },
+    "keywords": [
+        "openmage-module"
+    ]
 }
